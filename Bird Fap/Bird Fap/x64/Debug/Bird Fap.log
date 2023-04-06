@@ -1,0 +1,194 @@
+﻿  main.cpp
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(79,44): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(80,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(81,40): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(314,33): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(617,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(618,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(619,45): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(620,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(623,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(624,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(648,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(649,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(650,45): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(654,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(655,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(679,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(680,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(681,45): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(685,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(686,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(710,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(711,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(713,45): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(717,46): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(718,48): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(735,53): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(756,53): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(790,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(791,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(792,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(796,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(798,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(799,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(829,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(830,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(831,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(837,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(839,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(841,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(869,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(870,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(873,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(878,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(879,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(881,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(910,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(911,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(912,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(917,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(918,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(919,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(945,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(946,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(947,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(954,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(955,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(958,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(986,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(987,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(988,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(993,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(994,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(997,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1055,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1056,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1060,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1063,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1065,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1068,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1095,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1097,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1098,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1103,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1104,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1106,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1132,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1133,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1137,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1141,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1143,50): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1145,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1214,52): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1216,29): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1230,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1232,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1239,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1241,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1248,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1250,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1257,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1259,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1266,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1268,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1275,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1277,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1284,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1286,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1294,55): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1296,34): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1303,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1305,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1312,53): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1314,30): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1321,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1323,32): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1330,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1332,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1339,54): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1341,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1348,57): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1350,35): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1357,32): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1358,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1359,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1360,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1361,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1370,32): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1431,34): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1432,36): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1438,58): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1439,58): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1536,49): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1542,52): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\Bird Fap\main.cpp(1543,56): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Bird Fap.vcxproj -> C:\Users\rapha\Documents\Visual studio doc\visual studio 2022 projects\Bird Fap\x64\Debug\Bird Fap.exe
